@@ -1,6 +1,6 @@
 # Chat Real Time Socket.Io - Node - Express - MongoDB
 
-Simple Chat using Socket.io
+Simple Chat using Socket.io 
 
 ## Instalation
 
@@ -16,7 +16,7 @@ Run app
 npm start
 ```
 
-## Built With
+## Build With
 
 * Node.Js
 * Express.Js
